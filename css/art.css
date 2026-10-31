@@ -1,0 +1,34 @@
+.art{position:relative;overflow:hidden}
+.art1{background:radial-gradient(110% 110% at 18% 12%,#ded0ee 0%,transparent 55%),radial-gradient(120% 120% at 85% 75%,#f5d9e4 0%,transparent 55%),linear-gradient(120deg,#f3eef4,#ebe4ef)}
+.art2{background:radial-gradient(110% 110% at 20% 22%,#dfeacf 0%,transparent 52%),radial-gradient(120% 120% at 86% 78%,#f3e3c8 0%,transparent 55%),linear-gradient(120deg,#f0f2e8,#f0ebdc)}
+.art3{background:radial-gradient(110% 110% at 24% 18%,#ccd8f1 0%,transparent 52%),radial-gradient(120% 120% at 82% 84%,#e2d5f2 0%,transparent 55%),linear-gradient(120deg,#eaeef7,#ebe5f3)}
+.art4{background:radial-gradient(110% 110% at 18% 26%,#f4d3b3 0%,transparent 50%),radial-gradient(120% 120% at 84% 24%,#cfe5ca 0%,transparent 52%),linear-gradient(120deg,#f4ece0,#e8eee1)}
+.art5{background:radial-gradient(110% 110% at 22% 80%,#f2c0a6 0%,transparent 55%),radial-gradient(120% 120% at 80% 16%,#f2ddae 0%,transparent 52%),linear-gradient(120deg,#f5e8dc,#f1e0d0)}
+.art6{background:radial-gradient(110% 110% at 16% 18%,#f2d4b6 0%,transparent 52%),radial-gradient(120% 130% at 88% 86%,#e9bd9d 0%,transparent 58%),linear-gradient(120deg,#f1eae2,#eddfd2)}
+.art7{background:radial-gradient(110% 110% at 20% 24%,#f2cbd8 0%,transparent 52%),radial-gradient(120% 120% at 86% 80%,#f0ceb2 0%,transparent 55%),linear-gradient(120deg,#f5ebee,#f0e2d8)}
+.art8{background:radial-gradient(110% 110% at 22% 20%,#cde6dd 0%,transparent 52%),radial-gradient(120% 120% at 84% 82%,#f0d6b8 0%,transparent 55%),linear-gradient(120deg,#e8f0ea,#efe5d7)}
+.art-unimed{background:radial-gradient(110% 110% at 18% 14%,#cfe0d4 0%,transparent 55%),radial-gradient(120% 120% at 85% 80%,#79a98c 0%,transparent 60%),linear-gradient(120deg,#b3ccba,#92b7a0)}
+.art-almanza{background:radial-gradient(110% 110% at 18% 14%,#f7e0c6 0%,transparent 55%),radial-gradient(120% 120% at 85% 80%,#edae72 0%,transparent 60%),linear-gradient(120deg,#f2cda2,#edbb84)}
+.art-darkmatter{background:radial-gradient(110% 110% at 18% 14%,#c9c9cf 0%,transparent 55%),radial-gradient(120% 120% at 85% 80%,#84848e 0%,transparent 60%),linear-gradient(120deg,#aeaeb6,#94949e)}
+.art-workfit{background:radial-gradient(110% 110% at 18% 14%,#e7f2de 0%,transparent 55%),radial-gradient(120% 120% at 85% 80%,#b6dca6 0%,transparent 60%),linear-gradient(120deg,#d4e8c8,#c0ddb0)}
+.art-zeta{background:radial-gradient(110% 110% at 18% 14%,#cbd9ea 0%,transparent 55%),radial-gradient(120% 120% at 85% 80%,#7e9cc0 0%,transparent 60%),linear-gradient(120deg,#aabfd8,#8fa9c6)}
+.art-algar{background:radial-gradient(110% 110% at 18% 14%,#e2eef9 0%,transparent 55%),radial-gradient(120% 120% at 85% 80%,#abcbe8 0%,transparent 60%),linear-gradient(120deg,#cfe2f2,#b9d3ea)}
+.art-mrfritz{background:radial-gradient(110% 110% at 18% 14%,#f8ecc4 0%,transparent 55%),radial-gradient(120% 120% at 85% 80%,#ecce74 0%,transparent 60%),linear-gradient(120deg,#f2e1a4,#ecd584)}
+.art-mamma{background:radial-gradient(110% 110% at 18% 14%,#e9e8e7 0%,transparent 55%),radial-gradient(120% 120% at 85% 80%,#bdbab7 0%,transparent 60%),linear-gradient(120deg,#dbd9d7,#c9c6c3)}
+.art-artists{background:radial-gradient(110% 110% at 18% 14%,#e2d8f0 0%,transparent 55%),radial-gradient(120% 120% at 85% 80%,#ab90d4 0%,transparent 60%),linear-gradient(120deg,#cebce4,#b8a0d8)}
+.art-equilibrio{background:radial-gradient(110% 110% at 18% 14%,#d8e4f2 0%,transparent 55%),radial-gradient(120% 120% at 85% 80%,#94b1d4 0%,transparent 60%),linear-gradient(120deg,#bccfe4,#a2bcd8)}
+.art-nevata{background:radial-gradient(110% 110% at 18% 14%,#f9e2ea 0%,transparent 55%),radial-gradient(120% 120% at 85% 80%,#e8a2bf 0%,transparent 60%),linear-gradient(120deg,#f2cdda,#ebb4c8)}
+.art-musa{background:radial-gradient(110% 110% at 18% 14%,#e8def4 0%,transparent 55%),radial-gradient(120% 120% at 85% 80%,#a586d2 0%,transparent 60%),linear-gradient(120deg,#d3c2e8,#b89cd9)}
+.art-tattool{background:radial-gradient(110% 110% at 18% 14%,#c2c2c8 0%,transparent 55%),radial-gradient(120% 120% at 85% 80%,#75757f 0%,transparent 60%),linear-gradient(120deg,#a5a5ae,#8a8a94)}
+.art-eljoias{background:radial-gradient(110% 110% at 18% 14%,#f7ecd2 0%,transparent 55%),radial-gradient(120% 120% at 85% 80%,#d9b463 0%,transparent 60%),linear-gradient(120deg,#ecd9a8,#dfc382)}
+.art-edublin{background:radial-gradient(110% 110% at 18% 14%,#dcebe0 0%,transparent 55%),radial-gradient(120% 120% at 85% 80%,#8fbc9e 0%,transparent 60%),linear-gradient(120deg,#c5dccc,#a8cab4)}
+.art-frc{background:radial-gradient(110% 110% at 18% 14%,#c2c2c8 0%,transparent 55%),radial-gradient(120% 120% at 85% 80%,#75757f 0%,transparent 60%),linear-gradient(120deg,#a5a5ae,#8a8a94)}
+.art-351{background:radial-gradient(110% 110% at 18% 14%,#f8dfdb 0%,transparent 55%),radial-gradient(120% 120% at 85% 80%,#e69d92 0%,transparent 60%),linear-gradient(120deg,#f0c8c2,#e8b0a6)}
+.art-motogp{background:radial-gradient(110% 110% at 18% 14%,#f8eccb 0%,transparent 55%),radial-gradient(120% 120% at 85% 80%,#e8c558 0%,transparent 60%),linear-gradient(120deg,#f1e1a4,#ead082)}
+.art-drummer{background:radial-gradient(110% 110% at 18% 14%,#e7cba6 0%,transparent 55%),radial-gradient(120% 120% at 85% 80%,#a06a30 0%,transparent 60%),linear-gradient(120deg,#c89259,#a9743c)}
+.art-motorcyclist{background:radial-gradient(110% 110% at 18% 14%,#f9eecb 0%,transparent 55%),radial-gradient(120% 120% at 85% 80%,#ebc94f 0%,transparent 60%),linear-gradient(120deg,#f2e3a0,#ecd479)}
+.art-triathlete{background:radial-gradient(110% 110% at 18% 14%,#d2ecf7 0%,transparent 55%),radial-gradient(120% 120% at 85% 80%,#56b6e6 0%,transparent 60%),linear-gradient(120deg,#a9dcf2,#7cc8ea)}
+.art-barista{background:radial-gradient(110% 110% at 18% 14%,#e3cdb6 0%,transparent 55%),radial-gradient(120% 120% at 85% 80%,#9c6f48 0%,transparent 60%),linear-gradient(120deg,#cdab86,#b88f63)}
+.art-marketrix{background:radial-gradient(110% 110% at 18% 14%,#f7ddc6 0%,transparent 55%),radial-gradient(120% 120% at 85% 80%,#ec8a45 0%,transparent 60%),linear-gradient(120deg,#f3c79e,#ed9f6a)}
+.art-yellowshoes{background:radial-gradient(110% 110% at 18% 14%,#f9eecb 0%,transparent 55%),radial-gradient(120% 120% at 85% 80%,#ebc94f 0%,transparent 60%),linear-gradient(120deg,#f2e3a0,#ecd479)}
+.art-artists .pname,.pcard .cover.art-artists ~ * .pname{color:#3a3734}
